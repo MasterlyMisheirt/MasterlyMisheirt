@@ -1,8 +1,8 @@
-## Hi there 👋
-
+## Hi, I'm a programmer, and you? 🤗
+**`Full-stack developer`** 
+I'm soon about graduate and hope to enter to a big tech industry around software engineering, because I love coding.
 <!--
 **MasterlyMisheirt/MasterlyMisheirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
