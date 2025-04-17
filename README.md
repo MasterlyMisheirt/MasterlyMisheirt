@@ -1,4 +1,4 @@
-## Hi, I'm Michael, a programmer, and you? 🤗
+## Hello 🤗, I'm  Michael the programmer, and you? 
 **`Full-stack developer`** 
 <!--
 **MasterlyMisheirt/MasterlyMisheirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
