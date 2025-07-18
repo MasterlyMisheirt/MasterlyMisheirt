@@ -1,4 +1,5 @@
 ## Hello there 🤗
+- 🔭 I’ve worked on android and web applications during my CS course period.
 **`Full-stack developer`** 
 <!--
 **MasterlyMisheirt/MasterlyMisheirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
