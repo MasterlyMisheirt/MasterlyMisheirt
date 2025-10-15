@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ### 💡 Future Goals
 Planning a **TikTok-style app** using the **Product Hunt API** to explore endless product ideas to help people discover what to their project will be.
+The TikTok-style app will be integrated with Next.js instead of Inertia.js. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
