@@ -7,7 +7,7 @@ A personal book management web app that lets users track their reading. Built wi
 
 ### 🌱 I’m currently learning
 
-How to use v0 and Cursor to support my development and assist with learning. I'm also learning shadcn/ui and Inertia.js for React frontends, and plan to move to Next.js for my next project.
+How to use v0 and Cursor to support my development and assist with learning. I'm also learning how to use shadcn/ui and Inertia.js for React frontends, and plan to move to Next.js for my next project.
 
 
 
