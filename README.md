@@ -1,17 +1,13 @@
 ## Welcome 👋  
 
 ### 🔭 I’m currently working on
-**BookSafe 📙🔐**
-A personal book management web app that lets users track their reading, organise books into custom groups, and instantly fetch book details using the Google Books API. Built with **Laravel**, **Tailwind**, and **Alpine**.
+A personal book management web app that lets users track their reading. Built with Laravel, Tailwind, React, and Google Books API.
 
 ---
 
 ### 🌱 I’m currently learning
 
-Using **v0** and **Cursor** to support my development and assist with learning.  
-**v0** helps me build clean React frontends with **shadcn/ui**, while **Cursor** boosts backend productivity with AI agents and allows me to ask questions across multiple top models.
-
-I’m also exploring **shadcn/ui** and learning **Inertia.js** for React frontend interfaces in **BookSafe**, and plan to move to the **Next.js** framework for my next project.
+How to use v0 and Cursor to support my development and assist with learning. I'm also learning shadcn/ui and Inertia.js for React frontends, and plan to move to Next.js for my next project.
 
 
 
